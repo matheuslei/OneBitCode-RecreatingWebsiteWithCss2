@@ -1,5 +1,5 @@
 # OneBitCode-RecreatingWebsiteWithCss2
-Segundo simplex exercício de estilização com CSS do curso Programador Full Stack javaScript Profissional.
+Segundo exercício de estilização com CSS do curso Programador Full Stack javaScript Profissional.
 
 ![image](https://user-images.githubusercontent.com/65515537/157279554-2c7a9851-de04-45d5-a332-bf90312adc11.png)
 
